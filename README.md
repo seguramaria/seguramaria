@@ -2,14 +2,14 @@
 ![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
 
 ## Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript)
-![Sass](https://img.shields.io/badge/-Sass-%23f89d71)
-![React](https://img.shields.io/badge/-React-%23353b35)
-![CSS3](https://img.shields.io/badge/-CSS3-%23748074)
-![GIT](https://img.shields.io/badge/-Git-%23694640)
-![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71)
-![NPM](https://img.shields.io/badge/-npm-%23353b35)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript?logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass)
+![React](https://img.shields.io/badge/-React-%23353b35?logo=react)
+![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3)
+![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5)
+![NPM](https://img.shields.io/badge/-npm-%23353b35?logo=npm)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap)
 
 ## Soft Skills
 
