@@ -1,4 +1,4 @@
-### Hi, I'm María 👋💻✨
+### Hi, I'm María 👋✨
 ![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
 
 <!--
