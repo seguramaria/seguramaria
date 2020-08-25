@@ -13,6 +13,6 @@
 
 ## Get in touch 
 
-- Twitter 📱  https://twitter.com/MariaesSegura
-- Linkedin 💻  https://www.linkedin.com/in/seguramaria/
-- Email 📧  msegber@gmail.com
+- [Twitter 📱](https://twitter.com/MariaesSegura)
+- [Linkedin 💻](https://www.linkedin.com/in/seguramaria/)
+- [Email 📧](mailto:msegber@gmail.com)
