@@ -29,4 +29,4 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MariaesSegura?logoColor=%23694640&style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/MariaesSegura?style=social)
+
