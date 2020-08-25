@@ -1,17 +1,18 @@
 ### Hi, I'm María 👋✨
 ![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
 
-<!--
-**seguramaria/seguramaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+
+🎨 Creativity
+💪 Motivation
+🙋 Social skills
+
+
+## Get in touch 
+
+- Twitter 📱  https://twitter.com/MariaesSegura
+- Linkedin 💻  https://www.linkedin.com/in/seguramaria/
+- Email 📧  msegber@gmail.com
