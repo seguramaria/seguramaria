@@ -1,4 +1,5 @@
 ### Hi there 👋
+![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
 
 <!--
 **seguramaria/seguramaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
