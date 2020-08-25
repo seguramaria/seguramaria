@@ -2,7 +2,7 @@
 ![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
 
 ## Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript?logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3)
