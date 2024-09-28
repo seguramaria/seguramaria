@@ -8,7 +8,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-%23748074?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-%23694640?logo=redux&logoColor=white)
 
 ## Soft Skills
 
