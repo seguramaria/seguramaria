@@ -1,5 +1,5 @@
 ### Hi, I'm María 👋✨
-![María Segura](https://user-images.githubusercontent.com/65560127/91167925-04bae080-e6d5-11ea-864d-644717d3e6d3.gif)
+![María Segura](https://github.com/user-attachments/assets/4c3ddfb9-a1be-4e62-9f08-0932cdd705f6)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
